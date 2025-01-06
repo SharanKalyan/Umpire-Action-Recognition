@@ -1,5 +1,5 @@
 # Umpire-Action-Recognition
-Just a fun experiment on detecting umpire actions in Cricket! This is trained on Yolo V11 n.  
+Just a fun experiment on detecting umpire actions in Cricket! This is trained on Yolo V11 Nano.  I have a GPU , So I've trained it using the GPU. The training was only made on a sample set of 2000 images and ran for 25 Epochs!  
 
 Here are a few results!
 
