@@ -1,7 +1,7 @@
 # Umpire-Action-Recognition
 Just a fun experiment on detecting umpire actions in Cricket! This is trained on Yolo V11 n.  
 
-HEere are a few results!
+Here are a few results!
 
 ![umpire](https://github.com/user-attachments/assets/a0036c2d-5636-4969-a130-74ae39bb6b9d)
 
