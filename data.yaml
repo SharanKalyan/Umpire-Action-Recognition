@@ -1,0 +1,6 @@
+train: G:\SharanKalyan\Personel_Projects\YoloV11\UmpireGest\train
+val: G:\SharanKalyan\Personel_Projects\YoloV11\UmpireGest\valid
+
+nc: 8
+names: ['out', 'umpire out', 'umpire six', 'umpire_no_action', 'umpire_no_ball', 'umpire_out', 'umpire_six', 'umpire_wide_ball']
+
